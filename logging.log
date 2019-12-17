@@ -1,0 +1,14 @@
+2019-12-17 15:53:51 INFO  Peers - Initialize the list of nodes
+2019-12-17 15:54:02 ERROR Node - Error:Address already in use: JVM_Bind
+2019-12-17 15:54:31 INFO  Peers - Initialize the list of nodes
+2019-12-17 15:54:33 ERROR Node - Error:Address already in use: JVM_Bind
+2019-12-17 15:54:42 INFO  Peers - Initialize the list of nodes
+2019-12-17 15:54:45 ERROR Node - Error:Address already in use: JVM_Bind
+2019-12-17 15:54:54 INFO  Peers - Initialize the list of nodes
+2019-12-17 15:54:54 INFO  Node - Node started: address:79.140.234.66 port:6667
+2019-12-17 15:55:01 ERROR GUI - err all
+2019-12-17 15:55:01 ERROR Node - Unable to connect to: address:79.140.234.66 port:6666 error:Connection refused: connect
+2019-12-17 15:55:06 ERROR GUI - err all
+2019-12-17 15:55:06 ERROR Node - Unable to connect to: address:79.140.234.66 port:6666 error:Connection refused: connect
+2019-12-17 15:55:45 INFO  Peers - Initialize the list of nodes
+2019-12-17 15:55:46 INFO  Node - Node started: address:79.140.234.66 port:6667
